@@ -1,0 +1,14 @@
+# Temporary Files
+**/*.orig
+
+# IDE and Editor files
+.idea/
+*.sw[op]
+
+# OS-Generated Files
+**/.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
